@@ -1,0 +1,2 @@
+2022-12-04 11:12:03.051 [http-nio-8080-exec-10] ERROR org.practicalsolutions.dao.DBCPDataSource - Could not get connection to DB: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+2022-10-25 16:10:37.161 [http-nio-8080-exec-2] ERROR org.practicalsolutions.controller.IndexServlet - Instead Integer we received another type: java.lang.NumberFormatException: For input string: ""
